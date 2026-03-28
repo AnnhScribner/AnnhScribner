@@ -9,7 +9,7 @@
 <!-- Body -->
 <table align="center">
 <tr>
-<td width="700">
+<td width="750">
 
 ```java
 /* 
