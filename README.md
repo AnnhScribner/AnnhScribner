@@ -29,20 +29,19 @@ class AnnaScribner {
 
     String[] interests = {
         "Software Engineering",
-        "Research",
-        "Data & Scientific Applications"
+        "Research"
     };
 
     String[] currentFocus = {
-        "Preparing for Summer Internship @ NCAR (Boulder, CO)",
-        "Exploring LLM-based systems and data-driven tools",
+        "Im my Summer Internship @ NCAR (Boulder, CO)",
+        "Exploring LLM-based systems",
         "Strengthening problem-solving and fundamentals"
     };
 
     String[] currentlyLearning = {
         "Python & Java",
         "Data Structures",
-        "LLMs & Retrieval Systems"
+        "LLMs"
     };
 
     String[] hobbies = {
